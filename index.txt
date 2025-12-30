@@ -1,5 +1,0 @@
-<a href="">https://gregdodge.github.io/cordial/dev.html</a>
-
-<a href="">https://gregdodge.github.io/cordial/first-test.html</a>
-<a href="">https://gregdodge.github.io/cordial/first-test.css</a>
-<a href="">https://gregdodge.github.io/cordial/scratchpad.html</a>
